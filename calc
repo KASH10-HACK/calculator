@@ -138,7 +138,7 @@ h1{
                 <br>
                 <input id="clearButton" class="button" type="button" value="C" onclick="calculator.display.value = ''">
                 <input class="button digits" type="button" value="0" onclick="calculator.display.value += '0'">
-                <input class="button mathButtons" type="button" value="=" onclick="calculator.display.value = 'PAK U'">
+                <input class="button mathButtons" type="button" value="=" onclick="calculator.display.value = 'MAOY'">
                 <input class="button mathButtons" type="button" value="/" onclick="calculator.display.value += ' / '">
             </form>
         </fieldset>
